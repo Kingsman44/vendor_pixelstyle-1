@@ -23,7 +23,7 @@ PRODUCT_PACKAGES += \
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
 PRODUCT_PACKAGES += \
-    MatchmakerPrebuiltPixel4
+   DevicePersonalizationPrebuiltPixel4
 endif
 
 # Offline charger
